@@ -1,0 +1,50 @@
+  228  jupyter lab
+  229  activate conda uncc
+  230  conda activate uncc
+  231  conda activate uncc
+  232  cd desktop 
+  233  cd workshop 
+  234  cd workspace
+  235  jupyter lab
+  236  conda activate 
+  237  conda activate uncc
+  238  imo
+  239  /usr/local/bin/python3
+  240  conda activate uncc
+  241  pip install fire
+  242  python version 
+  243  pip install fire
+  244  pip install questionary 
+  245  jupyter lab
+  246  /usr/local/bin/python3 "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  247  version 
+  248  python version 
+  249  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  250  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  251  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  252  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  253  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  254  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  255  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  256  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  257  /Users/amtrease/opt/anaconda3/envs/dev/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  258  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  259  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  260  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  261  /Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/data/daily_rate_sheet.csv
+  262  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  263  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  264  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  265  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  266  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  267  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  268  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  269  yyy/Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  270  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  271  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  272  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  273  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  274  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  275  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  276  /Users/amtrease/opt/anaconda3/envs/uncc/bin/python "/Users/amtrease/Desktop/workspace/module_assignments/Module 2/loan_qualifier_app_challenge/app.py"
+  277  history 50 > terminal_history.txt
